@@ -1,0 +1,2 @@
+# AI-Based-Environmental-Risk-Monitoring-Water-Quality-Intelligence-Platform
+Developed an AI-powered environmental monitoring platform using machine learning to predict water quality and classify pollution risk from multiple environmental parameters. Built an interactive Streamlit dashboard featuring WQI analysis, historical trends, , automated alerts, model explainability, and what-if environmental simulations.
